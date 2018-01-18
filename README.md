@@ -1,3 +1,10 @@
-# My Awesome Book
+# 从前端到后端 （Python 版）
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+这一系列文章是写给纯前端童鞋们的后端入门指南。
+
+让前端童鞋们了解天天吐槽的后端到底是什么样的，以及如何当一个后端，为全栈之路打好基础。
+
+
+
+
+
